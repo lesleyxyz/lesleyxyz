@@ -5,6 +5,7 @@ Below, you will find a few of the things I'm enthusiastic about (in no particula
 
 * **Learning new things**
 * Cyber Security
+* Software Architecture & creating complex applications
 * Reverse Engineering & Dynamic Analysis
 * DevOps/DevSecOps
 * Cryptography
