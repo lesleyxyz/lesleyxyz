@@ -1,6 +1,6 @@
 ### Hi! I'm Lesley.
 
-You can find more about me on my website [https://lesley.co](https://lesley.co)
+You can find more about me on my website [https://lesley.eu](https://lesley.eu)
 Below, you will find a few of the things I'm enthusiastic about (in no particular order)...
 
 * **Learning new things**
